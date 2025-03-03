@@ -3,17 +3,22 @@ Car Rental Replica with React, TypeScript, Next.js, and RapidAPI
 
 This project is a car rental replica built with Next.js, React, and TypeScript, leveraging RapidAPI for real-time car data and Imagin Studio for dynamic car images. The app features a component-based architecture for maintainability, dynamic data fetching, real-time rental price calculations, and optimized performance through asynchronous operations.
 
-Key Features:
+KEY FEATURES:
 
 Component-based UI: Modular, reusable components with React for consistent styling and behavior.
+
 Dynamic Data Fetching: Fetches car data based on user filters, with seamless backend integration via Next.js API routes.
+
 Real-time Price Calculation: Calculates rental prices based on car mileage and age, ensuring immediate updates without re-renders.
+
 Responsive Design: Efficient image rendering and smooth UI transitions across devices.
+
 Error Handling & Performance: Integrated error handling for API failures and optimized asynchronous behavior for a stable, high-performance app.
+
 This platform showcases the integration of React, TypeScript, and Next.js to create a dynamic, responsive, and high-performance car rental service.
 
 
-
+---
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
