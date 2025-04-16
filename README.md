@@ -109,3 +109,25 @@ This **Car Rental Replica** is more than a UI mock — it’s a functional, data
 By combining third-party APIs, dynamic rendering, and smart architecture, this project delivers a seamless user experience — one scroll, one search, one car at a time.
 
 ---
+
+## Images
+
+Home Page:
+
+<img width="1196" alt="tg1" src="https://github.com/user-attachments/assets/d6c65bc3-b5d1-4806-b60d-0320e9481278" />
+<br/>
+
+Explore Cars Page:
+
+<img width="1420" alt="tg2" src="https://github.com/user-attachments/assets/1b3a160a-7941-4e9d-a26e-454b9ff36f81" />
+<br/>
+
+View More Option:
+
+<img width="1104" alt="tg3" src="https://github.com/user-attachments/assets/60d0350e-f89f-43e3-9cbf-e224847a93e5" />
+<br/>
+
+Car Details View:
+
+<img width="475" alt="tg4" src="https://github.com/user-attachments/assets/22bd38b1-5537-432e-94f9-fc470b90d205" />
+<br/>
